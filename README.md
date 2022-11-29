@@ -5,3 +5,8 @@
 ![yorumgetir](resimler/yorum_getir.png)
 [3. Girilen Konum Civarındaki Mekanları Listele](https://odev5.yagizsahinler.repl.co/api/mekanlar?enlem=37.8&&boylam=35.4)
 ![mekanlistele](resimler/mekan_listele.png)
+# Mekanbul REST API Testleri
+[1. API Collections Test]
+![thunder client test](resimler/thunder_client_test.png)
+[2. API Mocha Test]
+![api mocha test](resimler/api_test.png)
